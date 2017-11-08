@@ -7,6 +7,7 @@ Full-Stack:
     Logging = Log4j2
     Security = TBD
     Coding Standards = Google Guava
+    Version Control = GIT
   Model:
     DB = Neo4j
   Controller:
