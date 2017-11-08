@@ -13,7 +13,7 @@ Full-Stack:
   Controller:
     UX = RESTful
     Server = SpringBoot Tomcat
-    Language = Java using SpringBoot; Ionic or Swift
+    Language = Java using SpringBoot;
   View:
     Web = Angular 2
     iOS = Swift or Ionic
